@@ -1,0 +1,20 @@
+.forme{
+
+	-fx-fill:rgba(2,160,234,0.10);
+	-fx-stroke:#02a0ea;
+
+}
+
+.pointeur{
+	
+	-fx-fill:transparent;
+	-fx-stroke:#02a0ea;
+	
+}
+
+.pointeur:hover{
+	
+	-fx-fill:#02a0ea;
+	
+}
+
